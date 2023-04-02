@@ -1,1 +1,27 @@
-{}
+{
+  "c02764b2-a0af-427e-816a-e4b820e38bfd": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1623/1.0.1623.3210/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://5cg0t1.sharepoint.com/sites/DigitalInitiativePublicRelations": {
+        "dataSources": {
+          "Visitor Entry Data": {
+            "tableName": "7cf8f0f2-1900-4dc6-9cf9-7c5b7c07fa9b"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Visitor Entry Data"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "c02764b2-a0af-427e-816a-e4b820e38bfd"
+  }
+}

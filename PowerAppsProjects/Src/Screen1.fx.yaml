@@ -1,2 +1,8 @@
 Screen1 As screen:
 
+    Form1 As form:
+        Width: =1298
+        X: =31
+        Y: =71
+        ZIndex: =1
+
