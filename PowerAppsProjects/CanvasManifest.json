@@ -100,11 +100,11 @@
     "FileID": "51536e81-cd34-4dfa-894e-cfaf4e36f48e",
     "Id": "51536e81-cd34-4dfa-894e-cfaf4e36f48e",
     "InstrumentationKey": "",
-    "Name": "test",
+    "Name": "Visitor Entry Form",
     "OriginatingVersion": "1.330"
   },
   "PublishInfo": {
-    "AppName": "test",
+    "AppName": "Visitor Entry Form",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
